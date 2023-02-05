@@ -25,7 +25,7 @@ function App() {
   };
 
   const logoutHandler = () => {
-    setIsLoggedIn(false);
+    setIsLoggedIn(false); 
   };
 
   return (
